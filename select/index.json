@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "Homesic/暮らし",
+  "base_artist": "lilbesh ramko",
+  "createdAt": "2026-02-06T17:46:19.384140Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Subterranean Homesic Alien",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/01_Subterranean_Homesic_Alien_Radiohead.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Homesic/暮らし",
+      "artist": "lilbesh ramko",
+      "has_synced": false,
+      "path": "select/pl_01_Homesic_暮らし_lilbesh_ramko.txt"
+    }
+  ]
+}
